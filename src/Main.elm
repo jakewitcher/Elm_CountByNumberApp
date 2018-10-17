@@ -4,7 +4,6 @@ import Browser
 import Html exposing (Html, button, div, h1, h2, h3, input, p, text)
 import Html.Attributes exposing (..)
 import Html.Events exposing (onClick, onInput, onMouseOver)
-import Http
 
 main =
     Browser.document
